@@ -49,7 +49,7 @@ BAND PASS BAND REJECT AND NOTCH FILTER
 ![Screenshot (142)](https://user-images.githubusercontent.com/83698828/144657697-5fb6f40c-94fb-439d-8ab6-66ecf86584b0.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/83698828/144657824-3580257c-9203-4f1b-8135-341e20a33e31.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/83698828/144657898-2c9c3761-3976-46be-9176-4dc3046803f5.png)
-![Screenshot (146)](https://user-images.githubusercontent.com/83698828/144658020-8e9fd18a-ff1f-463d-82d2-86c86ce9b676.png)
+
 ![Screenshot (150)](https://user-images.githubusercontent.com/83698828/144658110-62db479d-e172-4c4b-89e3-901ffedb40b2.png)
 ![Screenshot (151)](https://user-images.githubusercontent.com/83698828/144658139-1ad4daf9-cdd7-46f1-9835-a547ca819ca1.png)
 ![Screenshot (156)](https://user-images.githubusercontent.com/83698828/144658214-24e99974-92d0-4e82-ae82-deabe1eaed94.png)
