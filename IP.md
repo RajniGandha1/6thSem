@@ -24,7 +24,10 @@ TYPE OF NOISE BASED ON SOURCE
 ![Screenshot (117)](https://user-images.githubusercontent.com/83698828/144618155-73505531-1d64-44f2-91ff-e985293eb621.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/83698828/144618277-fb73d6d0-c0b5-4a32-937c-72b7c22ca84c.png)
 ![Screenshot (120)](https://user-images.githubusercontent.com/83698828/144618420-a490fd0e-2d1e-4855-a906-0b94bbdbf0b1.png)
-![Uploading Screenshot (123).png…]()
+![Screenshot (123)](https://user-images.githubusercontent.com/83698828/144621572-a5eb329d-e7fe-4073-95db-e2e661d57cd9.png)
+
+![Screenshot (124)](https://user-images.githubusercontent.com/83698828/144621472-891040f5-3a32-4b95-a06b-095e1f11cd7a.png)
+
 
 
 
