@@ -14,5 +14,12 @@
 ![Screenshot (108)](https://user-images.githubusercontent.com/83698828/144613349-c869b0d1-c71e-4f20-871e-8bc6e1be5da9.png)
 ![Screenshot (109)](https://user-images.githubusercontent.com/83698828/144613475-5e7d1807-7e75-4a29-aaef-4fa83998b35a.png)
 ![Screenshot (111)](https://user-images.githubusercontent.com/83698828/144613527-b0ba7c46-6a7a-4530-9c69-fe1800f0b43f.png)
+TYPE OF NOISE BASED ON CORRELATION
+![Screenshot (112)](https://user-images.githubusercontent.com/83698828/144615369-84b84e29-c92e-4910-adf1-43e1124ab2f6.png)
+TYPE OF NOISE BASED ON NATURE
+![Screenshot (114)](https://user-images.githubusercontent.com/83698828/144615477-12fc1fca-02c9-4b03-b2af-382874d62086.png)
+TYPE OF NOISE BASED ON SOURCE
+![Screenshot (115)](https://user-images.githubusercontent.com/83698828/144615702-4e8a1ff3-c711-4daa-aa95-c5ae7f6a360e.png)
+
 
 
