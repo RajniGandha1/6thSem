@@ -20,6 +20,11 @@ TYPE OF NOISE BASED ON NATURE
 ![Screenshot (114)](https://user-images.githubusercontent.com/83698828/144615477-12fc1fca-02c9-4b03-b2af-382874d62086.png)
 TYPE OF NOISE BASED ON SOURCE
 ![Screenshot (115)](https://user-images.githubusercontent.com/83698828/144615702-4e8a1ff3-c711-4daa-aa95-c5ae7f6a360e.png)
+## Mean filter
+![Screenshot (117)](https://user-images.githubusercontent.com/83698828/144618155-73505531-1d64-44f2-91ff-e985293eb621.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/83698828/144618277-fb73d6d0-c0b5-4a32-937c-72b7c22ca84c.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/83698828/144618420-a490fd0e-2d1e-4855-a906-0b94bbdbf0b1.png)
+![Uploading Screenshot (123).png…]()
 
 
 
