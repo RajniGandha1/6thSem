@@ -29,6 +29,7 @@ TYPE OF NOISE BASED ON SOURCE
 ![Screenshot (124)](https://user-images.githubusercontent.com/83698828/144621472-891040f5-3a32-4b95-a06b-095e1f11cd7a.png)
 
 BAND PASS BAND REJECT AND NOTCH FILTER
+
 ![Screenshot (126)](https://user-images.githubusercontent.com/83698828/144622913-1877c711-eade-4c6b-af33-583c5a896d9b.png)
 ![Screenshot (127)](https://user-images.githubusercontent.com/83698828/144623905-3827d730-b83f-4018-b592-21f2254c8bcb.png)
 ![Screenshot (128)](https://user-images.githubusercontent.com/83698828/144623942-919e978f-63e5-4e6b-8887-366bcdba9b38.png)
