@@ -28,6 +28,17 @@ TYPE OF NOISE BASED ON SOURCE
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/83698828/144621472-891040f5-3a32-4b95-a06b-095e1f11cd7a.png)
 
-
+BAND PASS BAND REJECT AND NOTCH FILTER
+![Screenshot (126)](https://user-images.githubusercontent.com/83698828/144622913-1877c711-eade-4c6b-af33-583c5a896d9b.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/83698828/144623905-3827d730-b83f-4018-b592-21f2254c8bcb.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/83698828/144623942-919e978f-63e5-4e6b-8887-366bcdba9b38.png)
+![Screenshot (129)](https://user-images.githubusercontent.com/83698828/144623989-4420a2c2-7a23-427c-9313-9163f0977dc6.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/83698828/144624046-b77a26cb-720c-4e9d-b798-621f0e07a5c9.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/83698828/144624084-a4761026-8171-4386-b67c-1ba31b7c0c0d.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/83698828/144624124-729ad5ea-71dd-461a-b0eb-2a7fb8abf037.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/83698828/144624147-7ada6c1d-61ae-4683-bc7e-04af22dc7e0e.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/83698828/144624177-d3e7a1ee-8b3e-4cd7-b653-495233e1a865.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/83698828/144624264-33e6fba6-3096-4aa5-90b5-927e6a97c2e7.png)
+![Screenshot (136)](https://user-images.githubusercontent.com/83698828/144624305-a94de8f1-a69c-4b31-84ad-605c6bfa4d61.png)
 
 
