@@ -3,7 +3,6 @@
 
 
 ![WhatsApp Image 2021-12-04 at 3 13 49 PM (1)](https://user-images.githubusercontent.com/76476144/144705280-410ee90f-b3a3-43c9-a0d7-38b5a3d5b32b.jpeg)
-![WhatsApp Image 2021-12-04 at 3 13 49 PM (2)](https://user-images.githubusercontent.com/76476144/144705285-b4709e6a-7aa6-4056-824d-4e7b30b70cc0.jpeg)
 
 
 ![WhatsApp Image 2021-12-04 at 3 13 48 PM](https://user-images.githubusercontent.com/76476144/144705287-c8e3db95-8b9c-42c0-9995-1a9852c2f273.jpeg)
